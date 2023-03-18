@@ -1,6 +1,6 @@
 // Add labels
 const labels = [
-  "crack",
+  "crack"
 ];
 
 // React State implementation in Vanilla JS
